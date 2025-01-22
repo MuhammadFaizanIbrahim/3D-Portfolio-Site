@@ -1,6 +1,5 @@
 import * as THREE from 'three'
 import Camera from '../components/Camera.js'
-import { instance } from 'three/examples/jsm/nodes/Nodes.js';
 
 let instance = null
 
